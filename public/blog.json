@@ -1,53 +1,55 @@
 [
     {
-      "id": 1,
-      "cover": "https://ibb.co.com/YWskKYF",
-      "title": "Understanding AI in Modern Society",
-      "author": "Jane Doe",
-      "author_img": "https://ibb.co.com/zF1PT9y",
-      "posted_date": "2024-10-15",
-      "reading_time": 8,
-      "hashtag": ["AI", "Technology", "Society"]
+        "id": 1,
+        "cover": "https://i.ibb.co/6N2dgnZ/2.png",
+        "title": "Top 10 ES6 Features You Must Know",
+        "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+        "author": "Hamza Sohail",
+        "posted_date": "September 15, 2023",
+        "reading_time": 5,
+        "hashtags": [
+            "beginners",
+            "es6"
+        ]
     },
     {
-      "id": 2,
-      "cover": "https://ibb.co.com/vxvmw8h",
-      "title": "The Future of Green Energy",
-      "author": "John Smith",
-      "author_img": "https://ibb.co.com/GWFnXCv",
-      "posted_date": "2024-09-20",
-      "reading_time": 12,
-      "hashtag": ["GreenEnergy", "Environment", "Sustainability"]
+        "id": 2,
+        "cover": "https://i.postimg.cc/wTqdsDn5/cover2.jpg",
+        "title": "JavaScript Objects for Absolute Beginners: A Fun Introduction",
+        "author_img": "https://i.ibb.co/7rFSJx5/girl1.jpg",
+        "author": "Konika",
+        "posted_date": "August 28, 2023",
+        "reading_time": 4,
+        "hashtags": [
+            "javascript",
+            "coding",
+            "dev"
+        ]
     },
     {
-      "id": 3,
-      "cover": "https://ibb.co.com/t3JSq75",
-      "title": "Exploring the Cosmos: A Beginner’s Guide",
-      "author": "Alex Brown",
-      "author_img": "https://ibb.co.com/GWFnXCv",
-      "posted_date": "2024-10-10",
-      "reading_time": 15,
-      "hashtag": ["Space", "Astronomy", "Education"]
+        "id": 3,
+        "cover": "https://i.postimg.cc/SKBhX3pj/cover3.jpg",
+        "title": "Component lifecycle in React—Class component vs Functional component",
+        "author_img": "https://i.ibb.co/vwGwnhT/boy2.jpg",
+        "author": "Mahibur Rahman Khan",
+        "posted_date": "July 10, 2023",
+        "reading_time": 10,
+        "hashtags": [
+            "mid_level",
+            "react"
+        ]
     },
     {
-      "id": 4,
-      "cover": "https://ibb.co.com/r0RhB7w",
-      "title": "The Basics of Quantum Computing",
-      "author": "Emily White",
-      "author_img": "https://ibb.co.com/87wbKgX",
-      "posted_date": "2024-08-30",
-      "reading_time": 10,
-      "hashtag": ["QuantumComputing", "Science", "Technology"]
-    },
-    {
-      "id": 5,
-      "cover": "https://ibb.co.com/WstmHX2",
-      "title": "How to Improve Your Productivity",
-      "author": "Chris Green",
-      "author_img": "https://ibb.co.com/n12dYd7",
-      "posted_date": "2024-07-18",
-      "reading_time": 7,
-      "hashtag": ["Productivity", "SelfImprovement", "Lifestyle"]
+        "id": 4,
+        "cover": "https://i.postimg.cc/Gh4JMppF/laptop5.jpg",
+        "title": "Free images and resources collection for website",
+        "author_img": "https://i.ibb.co/Sn7zB4q/girl2.jpg",
+        "author": "Anmol Baloch",
+        "posted_date": "June 5, 2023",
+        "reading_time": 9,
+        "hashtags": [
+            "development",
+            "resources"
+        ]
     }
-  ]
-  
+]
